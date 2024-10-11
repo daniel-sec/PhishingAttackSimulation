@@ -35,6 +35,18 @@ Generate Domain to expose the service to the public internet: <br/>
 Create a new variable PORT with the value 3333: <br/>
 <img src="https://i.imgur.com/gKiIkYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Credentials to log into the admin server: <br/>
+<img src="https://i.imgur.com/OyORVxd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Generate Domain to expose the service to the public internet: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Generate Domain to expose the service to the public internet: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
