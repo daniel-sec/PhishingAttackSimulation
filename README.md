@@ -1,7 +1,7 @@
 <h1>Phishing Attack Simulation</h1>
 
 <h2>Description</h2>
-A comprehensive Security Information and Event Management (SIEM) lab set up in a home environment to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. 
+This project aims to simulate real-world phishing attacks to test and assess the cybersecurity awareness of employees within an organization. By creating realistic phishing emails and landing pages, the simulation helps identify potential vulnerabilities and educates employees on recognizing and responding to malicious attempts, enhancing overall security measures. The results of the simulation will provide valuable insights into employee behavior and guide future security training and policy improvements.
 <br />
 
 <h2>Project Hurdles and Outcome</h2>
