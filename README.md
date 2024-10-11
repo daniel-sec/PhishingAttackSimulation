@@ -29,7 +29,7 @@ Log into Railway and deploy from GitHub repo:  <br/>
 <br />
 <br />
 Generate Domain to expose the service to the public internet: <br/>
-<img src="https://i.imgur.com/MsfFLMG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r8PuVIv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
