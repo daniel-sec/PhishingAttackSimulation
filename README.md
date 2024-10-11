@@ -21,7 +21,7 @@ Unfortunately, this project did not succeed as intended. While I successfully ge
 
 <p align="center">
 Setting up the agent to collect logs: <br/>
-<img src="https://i.imgur.com/EO7tCvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QXSs0dH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install Elastic Agent on Host:  <br/>
