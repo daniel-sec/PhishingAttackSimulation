@@ -61,7 +61,7 @@ Creating a csv to Import Users: <br/>
 <br />
  <br />
 Creating a new Group of Users: <br/>
-<img src="blob:https://imgur.com/2db190ac-56fa-4eaf-b59a-b0da2c216249" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rkq8F4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
