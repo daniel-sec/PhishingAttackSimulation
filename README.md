@@ -76,10 +76,22 @@ Setting up Landing Page: <br/>
 <img src="https://i.imgur.com/uA9lRft.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Setting up the Campaign: <br/>
+<img src="https://i.imgur.com/5lqb3ZY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Edit config.json File in the forked Gophish repository (original): <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Edit config.json File in the forked Gophish repository (original): <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Edit config.json File in the forked Gophish repository (original): <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ 
 <!--
  ```diff
 - text in red
