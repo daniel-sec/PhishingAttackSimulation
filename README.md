@@ -68,8 +68,8 @@ Creating a simple Email Template: <br/>
 <img src="https://i.imgur.com/ljDoBxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up a sending profile: <br/>
+<img src="https://i.imgur.com/zwONGuZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
