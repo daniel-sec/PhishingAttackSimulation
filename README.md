@@ -45,7 +45,7 @@ Edit config.json File in the forked Gophish repository (original): <br/>
 <br />
 <br />
 Edited File (modefied): <br/>
-<img src="https://i.imgur.com/jeYIZHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Akyhiik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
