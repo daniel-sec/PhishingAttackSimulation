@@ -64,8 +64,8 @@ Creating a new Group of Users: <br/>
 <img src="https://i.imgur.com/Rkq8F4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a simple Email Template: <br/>
+<img src="https://i.imgur.com/Yzw6ex1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
