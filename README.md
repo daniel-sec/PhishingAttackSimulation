@@ -28,9 +28,8 @@ Log into Railway and deploy from GitHub repo:  <br/>
  <img src="https://i.imgur.com/rtVDWpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Succesfull installation: <br/>
-<img src="https://i.imgur.com/mTRrVVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/OrsVIi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Generate Domain to expose the service to the public internet: <br/>
+<img src="https://i.imgur.com/MsfFLMG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
