@@ -40,11 +40,27 @@ Credentials to log into the admin server: <br/>
 <img src="https://i.imgur.com/OyORVxd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generate Domain to expose the service to the public internet: <br/>
+Edit config.json File in the forked Gophish repository (original): <br/>
+<img src="https://i.imgur.com/SEFqsAD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Edited File (modefied): <br/>
+<img src="https://i.imgur.com/xV26dql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Edit config.json File in the forked Gophish repository (original): <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generate Domain to expose the service to the public internet: <br/>
+Edit config.json File in the forked Gophish repository (original): <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Edit config.json File in the forked Gophish repository (original): <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Edit config.json File in the forked Gophish repository (original): <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
