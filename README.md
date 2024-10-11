@@ -20,7 +20,7 @@ Unfortunately, this project did not succeed as intended. While I successfully ge
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Setting up the agent to collect logs: <br/>
+Fork the Gophish repository: <br/>
 <img src="https://imgur.com/QXSs0dH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
