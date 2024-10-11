@@ -48,8 +48,8 @@ Edited File (modefied): <br/>
 <img src="https://i.imgur.com/Akyhiik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the deployment URL: <br/>
+<img src="https://i.imgur.com/3FASbmK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
