@@ -29,7 +29,7 @@ Log into Railway and deploy from GitHub repo:  <br/>
 <br />
 <br />
 Generate Domain to expose the service to the public internet: <br/>
-<img src="https://i.imgur.com/r8PuVIv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ITx5qO9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a new variable PORT with the value 3333: <br/>
