@@ -5,7 +5,7 @@ This project aims to simulate real-world phishing attacks to test and assess the
 <br />
 
 <h2>Project Hurdles and Outcome</h2>
-Unfortunately, this project did not succeed as intended. While I successfully generated security events on the Kali VM, the logs were not successfully forwarded to the SIEM for analysis. This failure in log transmission prevented me from further analyzing the security events within the SIEM environment. Although the project wasn't entirely successful, it gave me valuable first-hand experience in setting up a SIEM for the first time, helping me understand the foundational steps and challenges involved. 
+During the project, I encountered significant challenges, particularly in setting up the sending profile. While most aspects went smoothly, there was a minor hurdle with Gmail's login process. Instead of using my regular Gmail password, I had to generate an App Password. This was necessary because Gmail often restricts third-party apps from accessing accounts with standard credentials, enforcing extra security measures. Despite this, the issue was resolved, and the project proceeded successfully.
 <br />
 
 <h2>Languages and Utilities Used</h2>
