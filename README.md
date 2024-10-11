@@ -25,8 +25,7 @@ Fork the Gophish repository: <br/>
 <br />
 <br />
 Log into Railway and deploy from GitHub repo:  <br/>
- <img src="https://i.imgur.com/ROlbVRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/wOd1N9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/rtVDWpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Succesfull installation: <br/>
