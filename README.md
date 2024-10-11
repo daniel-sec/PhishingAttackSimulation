@@ -65,7 +65,7 @@ Creating a new Group of Users: <br/>
 <br />
 <br />
 Creating a simple Email Template: <br/>
-<img src="https://i.imgur.com/ljDoBxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ymSqSNR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setting up a sending profile: <br/>
