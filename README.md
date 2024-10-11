@@ -36,7 +36,7 @@ Create a new variable PORT with the value 3333: <br/>
 <img src="https://i.imgur.com/gKiIkYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Credentials to log into the admin server: <br/>
+Temporary credentials to log into the admin server: <br/>
 <img src="https://i.imgur.com/OyORVxd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -52,8 +52,8 @@ Launch the deployment URL: <br/>
 <img src="https://i.imgur.com/3FASbmK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Changing password after using the temporary credentials: <br/>
+<img src="https://i.imgur.com/lNsi4nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
