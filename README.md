@@ -84,8 +84,8 @@ Launching Campaign: <br/>
 <img src="https://i.imgur.com/wKecYXR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Received Email: <br/>
+<img src="https://i.imgur.com/PJCTLVk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
