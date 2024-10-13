@@ -71,25 +71,10 @@ Dashboard of the Campaign: <br/>
 <img src="https://i.imgur.com/ZO7izPi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Submitted Data such as email: <br/>
+Submitted Data, such as email address: <br/>
 <img src="https://i.imgur.com/LcpdzJw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Setting up the Campaign: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Launching Campaign: <br/>
-<img src="https://i.imgur.com/wKecYXR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Received Email: <br/>
-<img src="https://i.imgur.com/PJCTLVk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
  
 <!--
  ```diff
