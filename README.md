@@ -31,8 +31,8 @@ Link to the admin panel and temporary credentials: <br/>
 <img src="https://i.imgur.com/4scQjdN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a new variable PORT with the value 3333: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login Page admin server: <br/>
+<img src="https://i.imgur.com/NxeCuFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Temporary credentials to log into the admin server: <br/>
