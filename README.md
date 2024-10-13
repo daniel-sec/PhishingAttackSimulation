@@ -35,8 +35,8 @@ Login Page admin server: <br/>
 <img src="https://i.imgur.com/NxeCuFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Temporary credentials to log into the admin server: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up a Sending Profile: <br/>
+<img src="https://i.imgur.com/rIitMXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edit config.json File in the forked Gophish repository (original): <br/>
