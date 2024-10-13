@@ -39,8 +39,8 @@ Setting up a Sending Profile: <br/>
 <img src="https://i.imgur.com/rIitMXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edit config.json File in the forked Gophish repository (original): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up a Group of Users in my case only 1 Person (Bulk import users also possible through a csv file): <br/>
+<img src="https://i.imgur.com/vp8jwqA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edited File (modefied): <br/>
