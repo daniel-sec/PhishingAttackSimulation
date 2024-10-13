@@ -55,8 +55,8 @@ Creating a new Campaign: <br/>
 <img src="https://i.imgur.com/WnRgC3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating a csv to Import Users: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard of the Capmaign: <br/>
+<img src="https://i.imgur.com/E5mY3qe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Creating a new Group of Users: <br/>
@@ -68,11 +68,11 @@ Creating a simple Email Template: <br/>
 <br />
 <br />
 Setting up a sending profile: <br/>
-<img src="https://i.imgur.com/zwONGuZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setting up Landing Page: <br/>
-<img src="https://i.imgur.com/uA9lRft.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setting up the Campaign: <br/>
