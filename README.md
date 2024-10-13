@@ -59,8 +59,8 @@ Dashboard of the Capmaign: <br/>
 <img src="https://i.imgur.com/E5mY3qe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
-Creating a new Group of Users: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Received Email (Every link in this email redirects to the previously created landing page): <br/>
+<img src="https://i.imgur.com/c1zwZU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a simple Email Template: <br/>
