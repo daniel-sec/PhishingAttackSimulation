@@ -5,7 +5,7 @@ This project aims to simulate real-world phishing attacks to test and assess the
 <br />
 
 <h2>Project Hurdles and Outcome</h2>
-(Local)During the project, I encountered significant challenges, particularly in setting up the sending profile. While most aspects went smoothly, there was a minor hurdle with Gmail's login process. Instead of using my regular Gmail password, I had to generate an App Password. This was necessary because Gmail often restricts third-party apps from accessing accounts with standard credentials, enforcing extra security measures. Despite this, the issue was resolved, and the project proceeded successfully.
+During the project, I faced a few challenges. Setting up the sending profile required an app-specific password because Gmail restricts third-party apps from accessing accounts with standard credentials. Initially, I tried to deploy the project publicly via Railway, a modern app hosting platform, but ran into issues where the landing page links in the email redirected to the admin server instead. Unable to find a solution, I moved the project to a local environment. Additionally, since the landing page only had an email input field, it only captured email addresses, not passwords, but it would work the same way if a password input field were added. Despite these issues, the project was successful in creating and launching an initial phishing campaign.
 <br />
 
 <h2>Languages and Utilities Used</h2>
