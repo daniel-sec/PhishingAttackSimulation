@@ -39,12 +39,12 @@ Setting up a Sending Profile: <br/>
 <img src="https://i.imgur.com/rIitMXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up a Group of Users in my case only 1 Person (Bulk import users also possible through a csv file): <br/>
+Setting up a Group of Users in my case only 1 Person (Bulk importing users is also possible through a CSV file): <br/>
 <img src="https://i.imgur.com/o0FctZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Edited File (modefied): <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a simple email template by importing the original 'Updating Our Terms of Service' message from a Google email: <br/>
+<img src="https://i.imgur.com/DjtVpon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Launch the deployment URL: <br/>
