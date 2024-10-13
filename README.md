@@ -40,7 +40,7 @@ Setting up a Sending Profile: <br/>
 <br />
 <br />
 Setting up a Group of Users in my case only 1 Person (Bulk import users also possible through a csv file): <br/>
-<img src="https://i.imgur.com/vp8jwqA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o0FctZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Edited File (modefied): <br/>
