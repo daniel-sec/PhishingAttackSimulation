@@ -55,7 +55,7 @@ Creating a new Campaign: <br/>
 <img src="https://i.imgur.com/WnRgC3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Dashboard of the Capmaign: <br/>
+Dashboard of the Campaign: <br/>
 <img src="https://i.imgur.com/E5mY3qe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
@@ -63,20 +63,20 @@ Received Email (Every link in this email redirects to the previously created lan
 <img src="https://i.imgur.com/c1zwZU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating a simple Email Template: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upon clicking any link in the email, the user will be redirected to the landing page: <br/>
+<img src="https://i.imgur.com/qlas9na.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up a sending profile: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard of the Campaign: <br/>
+<img src="https://i.imgur.com/ZO7izPi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up Landing Page: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Submitted Data such as email: <br/>
+<img src="https://i.imgur.com/LcpdzJw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setting up the Campaign: <br/>
-<img src="https://i.imgur.com/5lqb3ZY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Launching Campaign: <br/>
