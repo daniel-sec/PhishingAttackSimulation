@@ -23,8 +23,8 @@ Installing gophish: <br/>
 <img src="https://i.imgur.com/Ik1bnQF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log into Railway and deploy from GitHub repo:  <br/>
- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Execute Gophish Application:  <br/>
+ <img src="https://i.imgur.com/xwnzYK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generate Domain to expose the service to the public internet: <br/>
