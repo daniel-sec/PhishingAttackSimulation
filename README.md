@@ -27,8 +27,8 @@ Execute Gophish Application:  <br/>
  <img src="https://i.imgur.com/xwnzYK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generate Domain to expose the service to the public internet: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Link to the admin panel and temporary credentials: <br/>
+<img src="https://i.imgur.com/4scQjdN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a new variable PORT with the value 3333: <br/>
