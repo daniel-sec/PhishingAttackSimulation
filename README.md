@@ -51,8 +51,8 @@ Creating the google login page as a new Landing page (capture Submitted Data/Pas
 <img src="https://i.imgur.com/ZDLS8WJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Changing password after using the temporary credentials: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a new Campaign: <br/>
+<img src="https://i.imgur.com/WnRgC3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a csv to Import Users: <br/>
