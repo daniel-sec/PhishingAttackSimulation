@@ -67,7 +67,7 @@ Upon clicking any link in the email, the user will be redirected to the landing 
 <img src="https://i.imgur.com/qlas9na.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Dashboard of the Campaign: <br/>
+Results of the Campaign: <br/>
 <img src="https://i.imgur.com/ZO7izPi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
