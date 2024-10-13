@@ -47,8 +47,8 @@ Creating a simple email template by importing the original 'Updating Our Terms o
 <img src="https://i.imgur.com/DjtVpon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the deployment URL: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating the google login page as a new Landing page (capture Submitted Data/Passwords and redirect to the real google login page): <br/>
+<img src="https://i.imgur.com/ZDLS8WJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Changing password after using the temporary credentials: <br/>
